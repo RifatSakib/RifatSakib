@@ -48,6 +48,9 @@
 </div>
 
 ###
+<h2 align="center">Contacts</h2>
+
+###
 
 <div align="center">
   <a href="mailto:sakibrifat353@gmail.com" target="_blank">
